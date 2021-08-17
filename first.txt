@@ -1,1 +1,2 @@
 This is the test file
+add a second line from the local repository
